@@ -8,7 +8,6 @@ class Article extends Component {
     this.state = {
       isOpen: false,
     }
-
     this.toggleOpen = this.toggleOpen.bind(this);
   }
 
