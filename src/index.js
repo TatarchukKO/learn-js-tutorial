@@ -1,7 +1,7 @@
 import React from 'react'
 import { render } from 'react-dom'
 
-import ArticleList from './article-list'
+import ArticleList from './components/article-list'
 import { articles } from './fixtures'
 
 function HelloWorld() {
